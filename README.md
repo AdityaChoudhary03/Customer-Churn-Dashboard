@@ -12,7 +12,7 @@ The goal of the project is to help businesses:
 
 ---
 
-## ⭐ Key Highlights
+##  Key Highlights
 
 - ✔️ Real-world customer churn dataset
 - ✔️ Data cleaning performed in Excel
@@ -23,7 +23,7 @@ The goal of the project is to help businesses:
 
 ---
 
-## 🎯 Business Questions Answered
+##  Business Questions Answered
 
 - How many customers did churn?
 - Which service has the highest churn rate?
@@ -33,7 +33,7 @@ The goal of the project is to help businesses:
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - Microsoft Excel – data cleaning & preparation    
 - Power BI – dashboard & visualization  
@@ -42,7 +42,7 @@ The goal of the project is to help businesses:
 ---
 
 
-## 📊 Power BI Dashboard Features
+##  Power BI Dashboard Features
 
 - Overall churn KPI
 - Churn % by Tenure band
