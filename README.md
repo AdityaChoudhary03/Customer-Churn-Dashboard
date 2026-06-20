@@ -70,4 +70,4 @@ The goal of the project is to help businesses:
 - This detailed README
 
 - ## ✅ Dashboard
-- 
+- https://github.com/AdityaChoudhary03/Customer-Churn-Dashboard/blob/main/Churn%20DataSet%20Dashboard.pdf
